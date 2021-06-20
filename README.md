@@ -5,7 +5,7 @@
 
 
 "WIVE" was created to provide a simple, easy and reliable way 
-to install Realtk wifi drivers on your linux machine. 
+to install Realtek wifi drivers on your linux machine. 
 This tool is NBU compliant which means even a cyber dummy can run it.
 
 
@@ -53,3 +53,13 @@ You will be prompt to enter your password. Please do so to continue the driver i
 
 
 
+## Must Read.
+
+If your device isn't able to connect to the internet, 
+please try creating a local hotspot from your phone. 
+Connect your phone to your laptop/PC via a USB.
+Enable on your phone "Bluetooth tethering".
+On your linux machine, right click the bluetooth icon (or find the bluetooth settings)
+and select bluetooth devices.
+Right-click the connected device and select "Network Access Point".
+It should allow connectivity via bluetooth to download this repository and it's dependencies.
